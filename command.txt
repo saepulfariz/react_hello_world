@@ -1,0 +1,9 @@
+>> npm create vite
+Project name -> app
+Select a framework -> React
+Select a variant -> JavaScript
+
+>> cd app
+>> npm install
+>> npm run dev
+>> npm run build
